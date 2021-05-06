@@ -21,6 +21,6 @@
     "passport-localapikey": "0.0.3",
     "request": "^2.88.2",
     "serve-favicon": "^2.5.0",
-    "lodash": ">=4.17.15"
+    "lodash": ">=4.17.21"
   }
 }
